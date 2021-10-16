@@ -1,0 +1,36 @@
+{
+    "exercises": [
+        {
+            "tag_id": 824,
+            "user_input": "pushups",
+            "duration_min": 30,
+            "met": 3.8,
+            "nf_calories": 159.6,
+            "photo": {
+                "highres": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/824_highres.jpg",
+                "thumb": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/824_thumb.jpg",
+                "is_user_uploaded": false
+            },
+            "compendium_code": 2022,
+            "name": "push-up",
+            "description": null,
+            "benefits": null
+        },
+        {
+            "tag_id": 317,
+            "user_input": "running",
+            "duration_min": 30,
+            "met": 9.8,
+            "nf_calories": 411.6,
+            "photo": {
+                "highres": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/317_highres.jpg",
+                "thumb": "https://d2xdmhkmkbyw75.cloudfront.net/exercise/317_thumb.jpg",
+                "is_user_uploaded": false
+            },
+            "compendium_code": 12050,
+            "name": "running",
+            "description": null,
+            "benefits": null
+        }
+    ]
+}
